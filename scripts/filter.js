@@ -2,8 +2,8 @@ import { createReadStream } from 'fs';
 import { writeFile } from 'fs/promises';
 import { createInterface } from 'readline/promises';
 
-const lookup = /^.{1,3}r$/;
-const filePath = './data-all.csv';
+const lookup = /^rit.{1,30}$/;
+const filePath = './tdk-sozluk.csv';
 const outputFilePath = `./filtered.txt`;
 
 async function getSixthCellPerLine(path) {
