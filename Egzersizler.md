@@ -545,6 +545,49 @@ Tren tek bir gün durmadan aylarca ray ray ilerler.
 3. Tren gelir,
 4. Sakın unutma!
 
+### İlk Tren Yolculuğum
+
+İlk Tren Yolculuğum
+
+Trene ilk kez bindiğimde on bir yaşındaydım. Babam ve kardeşimle birlikte seyahat edecektik. Babam biletlerimizi önceden almıştı. İstasyona vardığımızda saat sabahın dördüydü. Ortalık hala karanlıktı. Vardığımızda tren perona yanaşmıştı. Yolcular ellerindeki bavullarıyla ve çantalarıyla birer ikişer trene biniyorlardı. Ben de elimde bir bavul, boynumda küçük bir fotoğraf makinesi taşıyordum. Babamla peronda ileri geri yürüyerek bineceğimiz kompartmanı bulduk. Trene binmeden önce makinemi boynumdan çıkardım, seyahat edeceğimiz kompartmanın alacakaranlıkta bir fotoğrafını çektim. O an, makinadan çıkan tıkırtı ile uzaktan gelen ray sesi birbirine karıştı.
+
+Kompartmanımız geniş ve ferahtı. İçeride bizden önce gelen birkaç yolcu vardı. Oturmuş, trenin hareket etmesini bekliyorlardı. Önce eşyalarımızı yerleştirdik, sonra oturacağımız koltukları bulduk. Babam, yolculuk sırasında etrafı izlemeyi ne kadar çok sevdiğimi bildiğinden benim için cam kenarındaki koltuğu ayırtmıştı. “Cam kenarını sana ayırdım, fotoğraf makineni unutma,” dedi gülerek. Bu, oturduğunuzda kendinizi rahatlamış hissettiğiniz geniş, mavi bir koltuktu. Sert, kadife bir kumaştan yapılmıştı. Sabah serinliğinden biraz soğuktu. Kardeşim de yanıma oturdu. Onu da dışarıyı seyredebilmesi için arada bir yerlerimizi değiştirmek üzere sözleştik.
+
+Daha önce trene hiç binmediğim için merak içindeydim. Acaba neleri görecektim? Pürüzsüz raylar üzerinden uçarçasına giden bir yolculuk olacaktı. Makinam her zaman elimde hazırdı. Hiçbir manzarayı kaçırmayacaktım.
+
+Biraz sonra tren hareket etti. Tek tük ışıkları yanan binaların arasından geçerek şehirden çıktı.  Evlerin yerini önce tarlalar sonra ormanlar aldı. Gökyüzü yer yer griden mora döndü. Dağların ardından yükselen güneşin ışığı belirginleşti. Sonra güneş göründü. Sabahın ilk ışıkları, otların ve ağaçların üstünde gümüş bir parıltıyla titremeye başladı. Rayların ritmik sesi kulaklarımda yankılanıyordu: “Trır rır rır... trır rır rır...” Kompartman kapısının arada bir çıkan gıcırtısı, raylara vuran metalin tıkırtısıyla birleşiyor, trenin içi bir ritim orkestrasına dönüşüyordu. Arada bir uzaktan, başka trenlerin düdüğü duyuluyor, bu ince ses içime nedensiz bir sevinç yayıyordu.
+
+Kardeşim resim yapmayı severdi. Renkli kalemleriyle trenleri, köprüleri ve dağları çizmeye başlamıştı. Beraber bir harita çizdik. Gittiğimiz yerlere yıldızlar koyduk.
+
+Yol boyunca yer yer tünellerden geçtik, yer yer köylerden. Bir yerde çobanlar, bir yerde kırlarda otlayan koyunlar gördük. Her durakta yeni insanlar bindi. Her yüz, başka bir yolculuktu.
+
+Saatler geçti ama bana göre zaman çok hızlı aktı. Tren ineceğimiz istasyona durunca içim biraz burkuldu ama biliyordum: Bu sadece ilk yolculuktu. Daha nice raylı rotalar beni bekliyordu.
+
+Okuma Anlama ve Hayal Gücü Soruları
+
+\1. Metne Dayalı Anlama Soruları
+  * Anlatıcı tren yolculuğuna kimlerle çıktı?
+  * Trene bindiklerinde saat kaçtı ve hava nasıldı?
+  * Fotoğraf makinesiyle neyi fotoğrafladı?
+  * Babası cam kenarındaki koltuğu neden ona ayırmıştı?
+  * Kompartman nasıl tanımlanmıştı?
+  * Yolda neler gördüler? Hangi manzaralar dikkatini çekti?
+  * Kardeşi trende hangi etkinliği yapıyordu?
+
+\2. Hayal Gücünü Teşvik Eden Sorular
+  * Trenin içindeki sesler bir orkestra olsaydı hangi enstrümanlar olurdu?
+  * Gittiğin yerlerde sen olsaydın haritaya hangi yıldızları eklerdin?
+  * O tren yolculuğu uzasaydı, bir sonraki durakta neler görmek isterdin?
+  * Trende resim yapan kişi sen olsaydın, hangi manzarayı çizerdin?
+  * Tren bir anda konuşmaya başlasaydı, sana ne derdi?
+
+\3. R Sesi Pratiğine Uygun Konuşma Soruları
+* "Raylarda ritmik bir tren yolculuğu" ifadesini tekrar et. Şimdi bu sesleri taklit etmeye çalış.
+* “Kırmızı kalemle raylı rota resmi çizdim” cümlesini yavaşça, sonra hızlıca oku.
+* Sence “tren”, “kompartman”, “rotalar” kelimeleri hangi sesleriyle kulağa hoş geliyor? Deneyerek söyle.
+* R harfiyle başlayan başka hangi yolculuk kelimeleri aklına geliyor? (örnek: rota, ray, rüzgâr...)
+* "Rüzgâr raylara vurdu, tren hızlandı." Cümlesini kendi ses tonunla vurgulayarak oku.
+
 ## Ser
 
 - Çamaşırları ipe serdi.
