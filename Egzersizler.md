@@ -125,31 +125,102 @@ Motzart'ın 5. senfonisinin giriş kısmını dinle ve oradaki vurgu ve melodiye
 
 ## Alıştırma 9
 
-1. Rap rap yürüyen askerler.
-2. Yağmur camlara rap rap vururdu.
-3. Sessizliğin içinde birden rap rap sesler yükseldi.
-4. Müziğin ritmine uygun şekilde kalemini deftere rap rap vuruyordu.
-5. Doktor tahtaya rap rap ritim tutarak örnek verdi.
-6. Kelimeleri hızla söylüyor, elleriyle rap rap tempo tutuyordu.
-7. Rap rap yürüyerek sahneye geldi ve pat pat mikrofona vurdu.
-8. Gece yarısı rap rap gelen ayak sesleri tüylerimi diken diken etti.
-9. Öğrenci sınıfa rap rap girdi ve özür diledi.
-10. Kalabalık alkışlar yerine yere rap rap vurarak tempo tutuyordu.
+1. Rap rap.
+2. Rap rap yürüyen.
+3. Rap rap yürüyen askerler.
+4. Rampada rap rap yürüyen askerler.
+5. Radyolu rampada rap rap yürüyen askerler.
 
 ## Alıştırma 10
 
-1. Ray ray giden trenler.
-2. Ray ray geçmişi hatırlardı.
-3. Kışın raylar karla kaplanır.
-4. Her ay bir ray eksilirdi.
-5. Ray boyunca ilerlemekte ısrar etti.
+
+## Alıştırma 10
+
+1. Ray
+2. Rayda durma.
+3. Rayda oturma.
+4. Bir rayda oturma.
+5. Her ay bir rayda oturma.
+
+
+2. Ray ray uzanır yolar.
+1. Kışın karla kaplanır raylar.
+1. O ray başka ray, bu ray başka ray.
+4. Her ay eksildi bir ray.
+5. Ray boyunca koşmakta ısrar etti.
 6. Rayların üzerinde yürümek yasaktır.
-7. Eski raylar söküldü, yerine yeni raylar yerleştirildi.
-8. Ray ustası, her rayın tam yerinde olmasına dikkat ediyordu.
+7. Eski raylar söküldü, yerine yeni raylar takıldı.
+8. Ray ustası, her ay yeni bir ray takar.
 9. Her ray bir hatıraydı onun için.
-10. Rayların birleştiği noktada bir sorun vardı
+10. Rayların birleştiği noktada bir sorun var.
+
 
 ## Alıştırma 11
+
+Renk renk kalemler.
+Yerde renk renk kalemler.
+Yerde renk renk kalemler var.
+Yerde her renkten renk renk kalemler var.
+Her renkten kalemler yerdeydi.
+Yerde sarı sarı kalemler vardı.
+
+Yerde sarı renkli kalemler vardı.
+Yerde kırmızı renkli kalemler vardı.
+Yerde mor renkli kalemler vardı.
+Yerde turuncu renkli kalemler vardı.
+Yerde kahverengi renkli kalemler vardı.
+
+## Alıştırma 11
+
+1. Yol çamurluydu.
+2. Yol yer yer çamurluydu.
+3. Yol yer yer çamurluydu, yer yer kuruydu.
+
+1. Gökyüzü açıktı.
+2. Gökyüzü yer yer açıktı.
+3. Gökyüzü yer yer açık, yer yer bulutluydu.
+
+1. Tarlalar yeşermişti.
+2. Tarlalar yer yer yeşermişti.
+3. Tarlalar yer yer yeşermiş, yer yer kurumuştu.
+
+1. Film duygusaldı.
+2. Film yer yer duygusaldı.
+3. Film yer yer duygusaldı, yer yer komikti.
+
+1. Halı renkliydi.
+2. Halı yer yer renkiydi.
+3. Halı yer yer renkli, yer yer solmuştu.
+
+1. Duvarlar temizdi.
+2. Duvarlar yer yer temizdi.
+3. Duvarlar yer yer temiz, yer yer kirliydi.
+
+1. Manzara muhteşemdi.
+2. Manzara yer yer muhteşemdi.
+3. Manzara yer yer muhteşe, yer yer sıradandı.
+
+1. Yol asfalttı.
+2. Yol yer yer asfalttı.
+3. Yol yer yer asfalt, yer yer topraktı.
+
+1. Duvar yazıları silinmişti.
+2. Duvar yazıları yer yer silinmişti.
+3. Duvar yazıları yer yer silinmiş, yer yer okunaklı kalmıştı.
+
+1.  Parktaki çimenler yeşildi.
+2.  Parktaki çimenler yer yer yeşildi.
+3.  Parktaki çimenler yer yer yeşil, yer yer sararmıştı.
+
+Cümleleri anlamlıdı.
+Cümleleri yer yer anlamlı.
+Cümleleri yer yer anlamlı, yer yer tutarsızdı.
+
+Kitabın dili sadedi
+Kitabın dili yer yer sadedyi,
+Kitabın dili yer yer sade, yer yer karmaşıktı.
+
+### Level 2
 
 1. Yol yer yer çamurluydu, yer yer kuruydu.
 2. Gökyüzü yer yer açık, yer yer bulutluydu.
@@ -161,6 +232,222 @@ Motzart'ın 5. senfonisinin giriş kısmını dinle ve oradaki vurgu ve melodiye
 8. Yolculuk sırasında manzara yer yer denizle buluşuyor, yer yer ormanlarla sarılıyordu.
 9. Duvar yazıları yer yer silinmiş, yer yer okunaklı kalmıştı.
 10. Parktaki çimenler yer yer yeşildi, yer yer sararmıştı.
+
+### Level 3
+
+1. Gün yer yer sakin geçiyor, yer yer gergin anlar yaşanıyordu.
+2. Yüzü yer yer tebessümle dolar, yer yer yorgunluk izleri taşıyordı.
+3. Filmin müziği yer yer huzur verici, yer yer rahatsız ediciydi.
+4. Tarlalar yer yer verimli, yer yer kurak topraklarla kaplıydı.
+5. Kıyafetleri yer yer temiz, yer yer yıpranmış görünüyordu.
+6. Rüzgâr yer yer hafif esiyor, yer yer sertçe savuruyordu.
+7. Yüzeyi yer yer pütürlü, yer yer pürüzsüzdü.
+8. El yazısı yer yer okunaklı, yer yer karmaşıktı.
+9. Yol yer yer düz, yer yer kıvrımlıydı.
+10. Denizin rengi yer yer masmavi, yer yer kurşuni griydi.
+
+### Level 4
+
+
+
+Sabah erkenden uyanıp yola çıktı.
+Hava tertemizdi, rüzgâr yumuşacıktı.
+Yol yer yer dümdüz gidiyordu, yer yer kıvrılıp kıvrılıp dönüyordu.
+Yürümek çok keyifliydi.
+
+Toprak yer yer kuru, yer yer nemliydi.
+Ayakkabıları bazen iz bırakıyor, bazen sessizce yürüyordu.
+Ağaçlar yer yer gölge yaptı, yer yer güneşin geçmesine izin verdi.
+Güneş yaprakların arasından bakıyordu.
+
+Gökyüzü yer yer mavi, yer yer beyaz bulutlarla süslüydü.
+Kuşlar yer yer cıvıldadı, yer yer sessizce uçtu.
+Rüzgâr saçlarını yer yer savurdu, yer yer tatlı tatlı yüzünü okşadı.
+
+Yürürken kalbi yer yer hızlı attı, yer yer sakinleşti.
+Çünkü karşısına çıkan manzaralar çok güzeldi.
+Çiçekler yer yer mor, yer yer kırmızıydı.
+Hepsi rengârenk gülümsüyordu.
+
+Bir kelebek uçtu yanından,
+Bir serçe taşların üstünde zıpladı.
+Bir dere yer yer şırıl şırıl aktı, yer yer sessizce süzüldü.
+
+Yürüdükçe sevindi.
+Yer yer bir çocuk gibi güldü,
+Yer yer bir kuş gibi özgür hissetti.
+
+Bu yol hem güzel hem neşeliydi.
+Yürümek, ona kendini çok ama çok iyi hissettirdi.
+
+### Level 5
+
+Yer Yer Işık
+
+Sabah serinliğinde yola koyuldu.
+Hava tertemizdi. Ruhunu sarıp sarmalayan bir ferahlık vardı.
+Yol yer yer düz, yer yer zarif kıvrımlarla doluydu.
+Her kıvrım, yeni bir güzelliğe açılan kapı gibiydi.
+
+Toprak yer yer kuru, yer yer serin bir nem taşıyordu.
+Adımları, yer yer iz bırakıyor, yer yer usulca süzülüyordu.
+Ağaçlar, iki yandan selam veriyordu ona.
+Yer yer gölge sundular, yer yer güneşi içeri aldılar.
+
+Gökyüzü yer yer pırıl pırıl maviydi, yer yer pamuk gibi bulutlarla süslenmişti.
+Bulutlar ağır değildi; hafiftiler, özgürdüler.
+Yer yer güneş gülümsedi, yer yer bulutlar aralığından ışığını yolladı.
+Işık, toprağa vurdukça renkler canlandı.
+
+Rüzgâr yer yer saçlarını karıştırdı, yer yer tenine tatlı bir serinlik bıraktı.
+Rüzgâr nazikti, rüzgâr dosttu.
+Yapraklar yer yer hışırdadı, yer yer fısıldadı kulağına.
+
+Kuşlar yer yer cıvıldadı, yer yer sessizliğe bıraktı kendini.
+O sessizlik bile mutluluk taşıyordu içinde.
+Adımlar ilerledikçe, içindeki düşünceler yer yer duruldu, yer yer kıpır kıpır oldu.
+Kalbi yer yer hızlandı, yer yer huzurla doldu.
+
+Çiçekler yer yer mor, yer yer kırmızıydı.
+Renkler yarışıyor gibiydi; hepsi gülümsemeye çağırıyordu.
+Bir kelebek, yer yer uçarak etrafında döndü.
+Bir serçe, yer yer taşların arasında zıpladı.
+
+Yol boyunca dere yer yer şırıldadı, yer yer sessizce aktı.
+Su, berraktı.
+Bir avuç aldı ellerine, yüzüne sürdü.
+Tazelik, içini sardı.
+
+Gördüğü her manzara, içini bir parça daha aydınlattı.
+Doğa, yer yer sürprizliydi, yer yer tanıdık ve sakindi.
+O da kendini yer yer bir yolcu gibi hissetti, yer yer bu güzelliğin bir parçası gibi.
+
+Yürüdükçe fark etti:
+Bu yol, yalnız bir patika değildi.
+Bu yol, yer yer içini onaran bir terapiydi, yer yer kalbine giden bir merhem.
+
+Ve o yolun ortasında,
+Yer yer bir çocuk gibi sevindi,
+Yer yer bir rüzgâr gibi özgür hissetti.
+
+Takip Soruları:
+
+Başlangıç Soruları (Gözlem – Metni Hatırlama)
+
+Yol nasıldı? Yer yer nasıl gidiyordu?
+    (Beklenen yanıt: Yer yer düz, yer yer kıvrılıyordu.)
+
+Gökyüzünü hatırlıyor musun? Yer yer ne renkti?
+    (Beklenen yanıt: Yer yer mavi, yer yer bulutluydu.)
+
+Çiçekler ne renkti? Hangi rengi en çok sevdin?
+
+Hayal Gücü Soruları (Yaratıcı Düşünme – Kelime Kullanımı)
+Sen o yolda olsaydın, yer yer nelerle karşılaşmak isterdin?
+Ağaçlar sana konuşsaydı, yer yer neler söylerdi?
+Eğer bir kelebek senin etrafında uçsaydı, hangi renkte olurdu ve nereye giderdi?
+
+Duygusal Farkındalık Soruları (Empati – İçsel Yorumlama)
+Yolda yürürken çocuk yer yer nasıl hissetti? Sen öyle bir yolda olsaydın, nasıl hissederdin?
+Kalbi yer yer hızlandı, yer yer sakinleşti. Senin kalbin ne zaman hızla atar? Ne zaman sakinleşir?
+En çok hoşuna giden yer hangisiydi? Neden?
+
+Etkinlik Soruları (Konuşma ve Hikâye Geliştirme)
+“Yer yer...” diye başlayan bir cümle kurabilir misin?
+  (Örn: Yer yer kuşlar uçar, yer yer bulutlar geçer.)
+
+Hadi sen de bu yolda geçen bir günü anlat. Yer yer neler olurdu? Rüzgâr, güneş, kuşlar... neler yapardı?
+
+Hikâye Kurma ve Devam Ettirme
+
+Yolun yer yer sihirli. Bir adım attığında önüne bir köprü çıkıyor, diğer adımda bir kaydırak! Bu yol nereye gidiyor olabilir?
+
+Yer yer gökten renkli meyveler yağıyor. Onları yakalayıp cümleler kurman gerekiyor.
+➤ Hangi meyveden hangi kelime çıkar?
+
+Sen de bu hikâyeye katıldın. Yol yer yer suskun, yer yer kahkahalarla dolu.
+➤ Sence sen orada ne yaparsın? Kimlerle karşılaşırsın?
+
+Yolun bir yerinde bir harita buluyorsun. Harita yer yer silinmiş, yer yer parlıyor.
+➤ Sence hazine nerede olabilir?
+
+Yürüdüğün yolun bir yerinde karşıdan bir rüzgâr gelir ve sana doğru fısıldar: “Aradığın şey burada.”
+➤ Sence neyi arıyordun? Yol seni nereye götürüyor?
+
+Yolda yürürken yer yer renkli taşlar görüyorsun. Her taşın içinde bir hatıra gizli.
+➤ Hangi taşı eline alırsın? O taş sana hangi anıyı hatırlatır?
+
+Ormanın derinliklerinde yer yer fısıltılar duyuluyor.
+➤ Bu fısıltılar bir karakter olsaydı, kim olurdu? Ne anlatırdı sana?
+
+Yolun bir yerinde bir harita buluyorsun. Harita yer yer eski, yer yer parlıyor.
+➤ Haritayı takip edersen nereye ulaşırsın? Orada seni kim karşılar?
+
+Ağaçlar yer yer kıpırdıyor, yapraklar seninle konuşmak istiyor.
+➤ Onlarla nasıl bir konuşma geçer aranızda? Ağaçlar sana ne sorar?
+
+Yol boyunca bir mırıldanma eşlik ediyor sana. Sanki biri sana bir hikâye anlatıyor ama yarım bırakıyor.
+➤ Hikâyenin yarısını sen tamamlasan nasıl olurdu?
+
+Güneş yer yer parlak, yer yer utangaç.
+➤ Eğer güneşin ruhu olsaydı, bugün nasıl hissederdi? Seninle ne konuşurdu?
+
+Yolculuğun bir yerinde küçük bir rüzgâr çanı buluyorsun. Yer yer çınlıyor, yer yer susuyor.
+➤ Çan sana bir şey anlatmak istese, nasıl bir öykü fısıldardı?
+
+Yolun kenarında yer yer ayna gibi parlayan göller var.
+➤ Birine bakınca kendi yansımandan başka birini görüyorsun. Kim bu kişi?
+
+Yolculuk sırasında yer yer hatırladığın bir rüya gözünün önüne geliyor.
+➤ Bu rüyayı gerçek bir hikâyeye dönüştürsen, başı nasıl başlardı? İçinde kimler olurdu?
+
+### Level 6
+
+Sabah serinliğinde yola koyulduğunda, içinde garip bir huzur vardı. Yol yer yer düz, yer yer tatlı kıvrımlarla doluydu. Her kıvrım, bir sürprizin habercisiydi sanki. Toprak yer yer kuru, yer yer nemliydi; ama her adımda ona bir şey fısıldıyor, yeryüzüyle bağını derinleştiriyordu.
+
+Ağaçlar yol boyunca uzanmıştı. Yer yer sıktılar, gölge verdiler; yer yer açıldılar, gökyüzüne pencere oldular. Güneş, yaprak aralarından ince ışıklarla süzülüyor, yolun üzerini zarifçe parlatıyordu. Bu ışık, umut gibiydi—küçük ama kararlı.
+
+Gökyüzü yer yer açık mavi, yer yer yumuşak bulutlarla süslenmişti. Bulutlar ağır değildi, aksine, göğe hareket ve neşe katıyorlardı. Kuşlar yer yer cıvıldıyor, yer yer rüzgâra karışan seslerle melodiler yaratıyordu.
+
+Yol boyunca rüzgâr hafif hafif esiyordu. Yer yer serinletiyor, yer yer saçlarını savuruyordu. Ama her zaman nazikti. Yüzüne dokunan her esinti, ona yaşadığını hatırlatıyor, içindeki yaşam sevincini körüklüyordu.
+
+Zihni yer yer düşüncelerle doluydu, yer yer boşlukta özgürce salınıyordu. Ama bu yol, bir yük değil, bir rahatlama alanıydı onun için. Kalbi yer yer hızlanıyor, güzel bir manzaraya ya da sevdiği bir hatıraya rastlayınca içi sevinçle doluyordu. Yer yer de sakinleşiyordu, bir ağacın gölgesinde ya da bir kelebeğin kanat sesinde huzur bulunca.
+
+Her durakta doğa ona gülümsüyor gibiydi. Yer yer rengârenk çiçekler karşılıyordu onu, yer yer serin sular fısıltıyla akıyor, onu dinlenmeye çağırıyordu. Gördüğü her renk, her kıpırtı içini aydınlatıyor, umutla dolduruyordu.
+
+Ve o, yürümeye devam etti. Çünkü bu yol, sadece bir patika değil; yer yer kendini, yer yer dünyayı yeniden bulduğu bir serüvendi.
+
+## Ser
+
+Sofrayı ser.
+Sofrayı yere ser.
+
+Halıyı ser.
+Halıyı odaya ser.
+
+Yorganı ser.
+Yorganı yatağa ser.
+
+Çamaşıri ser.
+Çamaşıri ipe ser.
+
+Battaniyeyi ser.
+Battaniyeyi çime ser.
+
+Minderi ser.
+Minderi kanepeye ser.
+
+Perdeyi ser.
+Perdeyi balkona ser.
+
+Havluyu ser.
+Hayvuyu güneşe ser.
+
+Örtüyü ser.
+Örtüyü masaya ser.
+
+Kilimi ser.
+Kilimi avluya ser.
 
 ## Alıştırma 12
 
@@ -196,13 +483,87 @@ Her bir cümleyi on defa tekrar edin. Bitirdiğinizde baştan sona sıralı olar
 12. Topa vur!
 13. Odunu yar!
 
+
+## İleri Seviye
+
+### Rap Rap
+
+3. Sessizliğin içinde birden rap rap sesleri yükseldi.
+4. Müziğin ritmine uygun şekilde kalemini deftere rap rap vuruyordu.
+5. Doktor tahtaya rap rap ritim tutarak örnek verdi.
+6. Kelimeleri hızla söylüyor, elleriyle rap rap tempo tutuyordu.
+7. Rap rap yürüyerek sahneye geldi ve pat pat mikrofona vurdu.
+8. Gece yarısı rap rap gelen ayak sesleri tüylerimi diken diken etti.
+9. Öğrenci sınıfa rap rap girdi ve özür diledi.
+10. Kalabalık alkışlar yerine yere rap rap vurarak tempo tutuyordu.
+
+### Tren
+
+Tren ray ray gider.
+Tren aylarca ray ray gider.
+Tren durmadan aylarca ray ray gider.
+Tren bir gün durmadan aylarca ray ray gider.
+Tren tek bir gün durmadan aylarca ray ray gider.
+
+Tren raylar üstünde gider.
+Tren aylarca raylar üstünde gider.
+Trey durmadan aylarca raylar üstünde gider.
+Trey bir gün durmadan aylarca raylar üstünde gider.
+Trey tek bir gün durmadan aylarca raylar üstünde gider.
+
+Tren ray ray ilerler.
+Tren aylarca ray ray ilerler.
+Tren durmadan aylarca ray ray ilerler.
+Tren bir gün durmadan aylarca ray ray ilerler.
+Tren tek bir gün durmadan aylarca ray ray ilerler.
+
+### Bir Tren Şarkısı
+
+
+1. Rayda durma,  
+2. Rayda oturma,  
+3. Tren gelir,
+4. Sakın unutma!
+
+1. Zil çalar,
+2. Işık yanar,
+3. Sabırlı ol,
+4. Tehlike var!
+
+1. Raylar uzun,
+2. Raylar dar, 
+3. Kenarda dur,
+4. Güvende kal!
+
+1. Tren hızlı,
+2. Tren durmaz,
+3. Ray üstünde,
+4. Oyun olmaz!
+
+1. Rayda durma,
+2. Rayda oturma,
+3. Tren gelir,
+4. Sakın unutma!
+
+## Ser
+
+- Çamaşırları ipe serdi.
+- Halıyı yere serdik.
+- Battaniyeyi üstüne serdim.
+- Sofrayı bahçeye serdiler.
+- Denize doğru havluyu serdi.
+- Çocuklar oyun oynamak için örtü serdi.
+- Piknikte örtüyü çimenlere serdik.
+- Ressam boyaları masaya serdi.
+- Yeni kilimi salona serdi.
+- Kitapları yere serip seçmeye başladı.
+
 ## Y ve R
 
 * ayrılmış
 
 
-
- Raf raf ayrılmış klasörler arasında aradığını kolayca bulurdu.
+Raf raf ayrılmış klasörler arasında aradığını kolayca bulurdu.
 
 
 
@@ -357,3 +718,16 @@ Her bir cümleyi on defa tekrar edin. Bitirdiğinizde baştan sona sıralı olar
 ---
 
 Bu uygulamalar bireysel ihtiyaçlara göre uyarlanmalı, gerekirse bir dil ve konuşma terapistinin rehberliğinde yürütülmelidir.
+
+## Mirror Neurons
+
+Mirror neurons are thought to support observational learning and promote imitation (Cross et al., 2009). In humans, mirror neurons are located in a part of the brain that is predominantly involved in speech perception and production.
+
+### Are mirror neurons the basis of speech perception? Evidence from five cases with damage to the purported human mirror system
+
+The discovery of mirror neurons in macaque has led to a resurrection of motor theories of speech perception. Although the majority of lesion and functional imaging studies have associated perception with the temporal lobes, it has also been proposed that the ‘human mirror system’, which prominently includes Broca's area, is the neurophysiological substrate of speech perception. Although numerous studies have demonstrated a tight link between sensory and motor speech processes, few have directly assessed the critical prediction of mirror neuron theories of speech perception, namely that damage to the human mirror system should cause severe deficits in speech perception. The present study measured speech perception abilities of patients with lesions involving motor regions in the left posterior frontal lobe and/or inferior parietal lobule (i.e., the proposed human ‘mirror system’). Performance was at or near ceiling in patients with fronto-parietal lesions. **It is only when the lesion encroaches on auditory regions in the temporal lobe that perceptual deficits are evident. This suggests that ‘mirror system’ damage does not disrupt speech perception, but rather that auditory systems are the primary substrate for speech perception.**
+
+## References
+* [Tools for Teaching the R Sound by Peachie Speechie](https://www.youtube.com/watch?v=i1zgAcm9rfc)
+* [Teaching the R Sound to Teens and Older Kids](https://www.youtube.com/watch?v=0oGE88STM3Q)
+* [Teaching Retroflex R to Teens and Older Kids by Peachie Speechie](https://www.youtube.com/watch?v=JzF0r8WJDIM)
