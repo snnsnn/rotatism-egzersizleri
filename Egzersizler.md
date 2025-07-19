@@ -133,15 +133,11 @@ Motzart'ın 5. senfonisinin giriş kısmını dinle ve oradaki vurgu ve melodiye
 
 ## Alıştırma 10
 
-
-## Alıştırma 10
-
 1. Ray
 2. Rayda durma.
 3. Rayda oturma.
 4. Bir rayda oturma.
 5. Her ay bir rayda oturma.
-
 
 2. Ray ray uzanır yolar.
 1. Kışın karla kaplanır raylar.
@@ -153,7 +149,6 @@ Motzart'ın 5. senfonisinin giriş kısmını dinle ve oradaki vurgu ve melodiye
 8. Ray ustası, her ay yeni bir ray takar.
 9. Her ray bir hatıraydı onun için.
 10. Rayların birleştiği noktada bir sorun var.
-
 
 ## Alıştırma 11
 
@@ -170,7 +165,7 @@ Yerde mor renkli kalemler vardı.
 Yerde turuncu renkli kalemler vardı.
 Yerde kahverengi renkli kalemler vardı.
 
-## Alıştırma 11
+## Alıştırma 12
 
 1. Yol çamurluydu.
 2. Yol yer yer çamurluydu.
@@ -208,19 +203,19 @@ Yerde kahverengi renkli kalemler vardı.
 2. Duvar yazıları yer yer silinmişti.
 3. Duvar yazıları yer yer silinmiş, yer yer okunaklı kalmıştı.
 
-1.  Parktaki çimenler yeşildi.
-2.  Parktaki çimenler yer yer yeşildi.
-3.  Parktaki çimenler yer yer yeşil, yer yer sararmıştı.
+1. Parktaki çimenler yeşildi.
+2. Parktaki çimenler yer yer yeşildi.
+3. Parktaki çimenler yer yer yeşil, yer yer sararmıştı.
 
-Cümleleri anlamlıdı.
-Cümleleri yer yer anlamlı.
-Cümleleri yer yer anlamlı, yer yer tutarsızdı.
+1. Cümleleri anlamlıydı.
+2. Cümleleri yer yer anlamlıydı.
+3. Cümleleri yer yer anlamlı, yer yer tutarsızdı.
 
-Kitabın dili sadedi
-Kitabın dili yer yer sadedyi,
-Kitabın dili yer yer sade, yer yer karmaşıktı.
+1. Kitabın dili sadeydi.
+2. Kitabın dili yer yer sadedyi.
+3. Kitabın dili yer yer sade, yer yer karmaşıktı.
 
-### Level 2
+### Alıştırma 12 - II
 
 1. Yol yer yer çamurluydu, yer yer kuruydu.
 2. Gökyüzü yer yer açık, yer yer bulutluydu.
@@ -233,7 +228,7 @@ Kitabın dili yer yer sade, yer yer karmaşıktı.
 9. Duvar yazıları yer yer silinmiş, yer yer okunaklı kalmıştı.
 10. Parktaki çimenler yer yer yeşildi, yer yer sararmıştı.
 
-### Level 3
+### Alıştırma 12 - III
 
 1. Gün yer yer sakin geçiyor, yer yer gergin anlar yaşanıyordu.
 2. Yüzü yer yer tebessümle dolar, yer yer yorgunluk izleri taşıyordı.
@@ -246,89 +241,85 @@ Kitabın dili yer yer sade, yer yer karmaşıktı.
 9. Yol yer yer düz, yer yer kıvrımlıydı.
 10. Denizin rengi yer yer masmavi, yer yer kurşuni griydi.
 
-### Level 4
+### Alıştırma 12 - IV
 
+1. Sabah erkenden uyanıp yola çıktı.
+2. Hava tertemizdi, rüzgâr yumuşacıktı.
+3. Yol yer yer dümdüz gidiyordu, yer yer kıvrılıp kıvrılıp dönüyordu.
+4. Yürümek çok keyifliydi.
 
+1. Toprak yer yer kuru, yer yer nemliydi.
+2. Ayakkabıları bazen iz bırakıyor, bazen sessizce yürüyordu.
+3. Ağaçlar yer yer gölge yaptı, yer yer güneşin geçmesine izin verdi.
+4. Güneş yaprakların arasından bakıyordu.
 
-Sabah erkenden uyanıp yola çıktı.
-Hava tertemizdi, rüzgâr yumuşacıktı.
-Yol yer yer dümdüz gidiyordu, yer yer kıvrılıp kıvrılıp dönüyordu.
-Yürümek çok keyifliydi.
+1. Gökyüzü yer yer mavi, yer yer beyaz bulutlarla süslüydü.
+2. Kuşlar yer yer cıvıldadı, yer yer sessizce uçtu.
+3. Rüzgâr saçlarını yer yer savurdu, yer yer tatlı tatlı yüzünü okşadı.
 
-Toprak yer yer kuru, yer yer nemliydi.
-Ayakkabıları bazen iz bırakıyor, bazen sessizce yürüyordu.
-Ağaçlar yer yer gölge yaptı, yer yer güneşin geçmesine izin verdi.
-Güneş yaprakların arasından bakıyordu.
+1. Yürürken kalbi yer yer hızlı attı, yer yer sakinleşti.
+2. Çünkü karşısına çıkan manzaralar çok güzeldi.
+3. Çiçekler yer yer mor, yer yer kırmızıydı.
+4. Hepsi rengârenk gülümsüyordu.
 
-Gökyüzü yer yer mavi, yer yer beyaz bulutlarla süslüydü.
-Kuşlar yer yer cıvıldadı, yer yer sessizce uçtu.
-Rüzgâr saçlarını yer yer savurdu, yer yer tatlı tatlı yüzünü okşadı.
+1. Bir kelebek uçtu yanından,
+2. Bir serçe taşların üstünde zıpladı.
+3. Bir dere yer yer şırıl şırıl aktı, yer yer sessizce süzüldü.
 
-Yürürken kalbi yer yer hızlı attı, yer yer sakinleşti.
-Çünkü karşısına çıkan manzaralar çok güzeldi.
-Çiçekler yer yer mor, yer yer kırmızıydı.
-Hepsi rengârenk gülümsüyordu.
+1. Yürüdükçe sevindi.
+2. Yer yer bir çocuk gibi güldü,
+3. Yer yer bir kuş gibi özgür hissetti.
 
-Bir kelebek uçtu yanından,
-Bir serçe taşların üstünde zıpladı.
-Bir dere yer yer şırıl şırıl aktı, yer yer sessizce süzüldü.
+1. Bu yol hem güzel hem neşeliydi.
+2. Yürümek, ona kendini çok ama çok iyi hissettirdi.
 
-Yürüdükçe sevindi.
-Yer yer bir çocuk gibi güldü,
-Yer yer bir kuş gibi özgür hissetti.
+### Alıştırma 12 - V
 
-Bu yol hem güzel hem neşeliydi.
-Yürümek, ona kendini çok ama çok iyi hissettirdi.
+1. Sabah serinliğinde yola koyuldu.
+2. Hava tertemizdi. Ruhunu sarıp sarmalayan bir ferahlık vardı.
+3. Yol yer yer düz, yer yer zarif kıvrımlarla doluydu.
+4. Her kıvrım, yeni bir güzelliğe açılan kapı gibiydi.
 
-### Level 5
+1. Toprak yer yer kuru, yer yer serin bir nem taşıyordu.
+2. Adımları, yer yer iz bırakıyor, yer yer usulca süzülüyordu.
+3. Ağaçlar, iki yandan selam veriyordu ona.
+4. Yer yer gölge sundular, yer yer güneşi içeri aldılar.
 
-Yer Yer Işık
+1. Gökyüzü yer yer pırıl pırıl maviydi, yer yer pamuk gibi bulutlarla süslenmişti.
+2. Bulutlar ağır değildi; hafiftiler, özgürdüler.
+3. Yer yer güneş gülümsedi, yer yer bulutlar aralığından ışığını yolladı.
+4. Işık, toprağa vurdukça renkler canlandı.
 
-Sabah serinliğinde yola koyuldu.
-Hava tertemizdi. Ruhunu sarıp sarmalayan bir ferahlık vardı.
-Yol yer yer düz, yer yer zarif kıvrımlarla doluydu.
-Her kıvrım, yeni bir güzelliğe açılan kapı gibiydi.
+1. Rüzgâr yer yer saçlarını karıştırdı, yer yer tenine tatlı bir serinlik bıraktı.
+2. Rüzgâr nazikti, rüzgâr dosttu.
+3. Yapraklar yer yer hışırdadı, yer yer fısıldadı kulağına.
 
-Toprak yer yer kuru, yer yer serin bir nem taşıyordu.
-Adımları, yer yer iz bırakıyor, yer yer usulca süzülüyordu.
-Ağaçlar, iki yandan selam veriyordu ona.
-Yer yer gölge sundular, yer yer güneşi içeri aldılar.
+1. Kuşlar yer yer cıvıldadı, yer yer sessizliğe bıraktı kendini.
+2. O sessizlik bile mutluluk taşıyordu içinde.
+3. Adımlar ilerledikçe, içindeki düşünceler yer yer duruldu, yer yer kıpır kıpır oldu.
+4. Kalbi yer yer hızlandı, yer yer huzurla doldu.
 
-Gökyüzü yer yer pırıl pırıl maviydi, yer yer pamuk gibi bulutlarla süslenmişti.
-Bulutlar ağır değildi; hafiftiler, özgürdüler.
-Yer yer güneş gülümsedi, yer yer bulutlar aralığından ışığını yolladı.
-Işık, toprağa vurdukça renkler canlandı.
+1. Çiçekler yer yer mor, yer yer kırmızıydı.
+2. Renkler yarışıyor gibiydi; hepsi gülümsemeye çağırıyordu.
+3. Bir kelebek, yer yer uçarak etrafında döndü.
+4. Bir serçe, yer yer taşların arasında zıpladı.
 
-Rüzgâr yer yer saçlarını karıştırdı, yer yer tenine tatlı bir serinlik bıraktı.
-Rüzgâr nazikti, rüzgâr dosttu.
-Yapraklar yer yer hışırdadı, yer yer fısıldadı kulağına.
+1. Yol boyunca dere yer yer şırıldadı, yer yer sessizce aktı.
+2. Su, berraktı.
+3. Bir avuç aldı ellerine, yüzüne sürdü.
+4. Tazelik, içini sardı.
 
-Kuşlar yer yer cıvıldadı, yer yer sessizliğe bıraktı kendini.
-O sessizlik bile mutluluk taşıyordu içinde.
-Adımlar ilerledikçe, içindeki düşünceler yer yer duruldu, yer yer kıpır kıpır oldu.
-Kalbi yer yer hızlandı, yer yer huzurla doldu.
+1. Gördüğü her manzara, içini bir parça daha aydınlattı.
+2. Doğa, yer yer sürprizliydi, yer yer tanıdık ve sakindi.
+3. O da kendini yer yer bir yolcu gibi hissetti, yer yer bu güzelliğin bir parçası gibi.
 
-Çiçekler yer yer mor, yer yer kırmızıydı.
-Renkler yarışıyor gibiydi; hepsi gülümsemeye çağırıyordu.
-Bir kelebek, yer yer uçarak etrafında döndü.
-Bir serçe, yer yer taşların arasında zıpladı.
+1. Yürüdükçe fark etti:
+2. Bu yol, yalnız bir patika değildi.
+3. Bu yol, yer yer içini onaran bir terapiydi, yer yer kalbine giden bir merhem.
 
-Yol boyunca dere yer yer şırıldadı, yer yer sessizce aktı.
-Su, berraktı.
-Bir avuç aldı ellerine, yüzüne sürdü.
-Tazelik, içini sardı.
-
-Gördüğü her manzara, içini bir parça daha aydınlattı.
-Doğa, yer yer sürprizliydi, yer yer tanıdık ve sakindi.
-O da kendini yer yer bir yolcu gibi hissetti, yer yer bu güzelliğin bir parçası gibi.
-
-Yürüdükçe fark etti:
-Bu yol, yalnız bir patika değildi.
-Bu yol, yer yer içini onaran bir terapiydi, yer yer kalbine giden bir merhem.
-
-Ve o yolun ortasında,
-Yer yer bir çocuk gibi sevindi,
-Yer yer bir rüzgâr gibi özgür hissetti.
+1. Ve o yolun ortasında,
+2. Yer yer bir çocuk gibi sevindi,
+3. Yer yer bir rüzgâr gibi özgür hissetti.
 
 Takip Soruları:
 
@@ -342,15 +333,16 @@ Gökyüzünü hatırlıyor musun? Yer yer ne renkti?
 
 Çiçekler ne renkti? Hangi rengi en çok sevdin?
 
-Hayal Gücü Soruları (Yaratıcı Düşünme – Kelime Kullanımı)
-Sen o yolda olsaydın, yer yer nelerle karşılaşmak isterdin?
-Ağaçlar sana konuşsaydı, yer yer neler söylerdi?
-Eğer bir kelebek senin etrafında uçsaydı, hangi renkte olurdu ve nereye giderdi?
+### Hayal Gücü Soruları (Yaratıcı Düşünme – Kelime Kullanımı)
 
-Duygusal Farkındalık Soruları (Empati – İçsel Yorumlama)
-Yolda yürürken çocuk yer yer nasıl hissetti? Sen öyle bir yolda olsaydın, nasıl hissederdin?
-Kalbi yer yer hızlandı, yer yer sakinleşti. Senin kalbin ne zaman hızla atar? Ne zaman sakinleşir?
-En çok hoşuna giden yer hangisiydi? Neden?
+1. Sen o yolda olsaydın, yer yer nelerle karşılaşmak isterdin?
+2. Ağaçlar sana konuşsaydı, yer yer neler söylerdi?
+3. Eğer bir kelebek senin etrafında uçsaydı, hangi renkte olurdu ve nereye giderdi?
+
+1. Duygusal Farkındalık Soruları (Empati – İçsel Yorumlama)
+2. Yolda yürürken çocuk yer yer nasıl hissetti? Sen öyle bir yolda olsaydın, nasıl hissederdin?
+3. Kalbi yer yer hızlandı, yer yer sakinleşti. Senin kalbin ne zaman hızla atar? Ne zaman sakinleşir?
+4. En çok hoşuna giden yer hangisiydi? Neden?
 
 Etkinlik Soruları (Konuşma ve Hikâye Geliştirme)
 “Yer yer...” diye başlayan bir cümle kurabilir misin?
@@ -483,7 +475,6 @@ Her bir cümleyi on defa tekrar edin. Bitirdiğinizde baştan sona sıralı olar
 12. Topa vur!
 13. Odunu yar!
 
-
 ## İleri Seviye
 
 ### Rap Rap
@@ -518,7 +509,6 @@ Tren bir gün durmadan aylarca ray ray ilerler.
 Tren tek bir gün durmadan aylarca ray ray ilerler.
 
 ### Bir Tren Şarkısı
-
 
 1. Rayda durma,  
 2. Rayda oturma,  
@@ -771,6 +761,7 @@ Mirror neurons are thought to support observational learning and promote imitati
 The discovery of mirror neurons in macaque has led to a resurrection of motor theories of speech perception. Although the majority of lesion and functional imaging studies have associated perception with the temporal lobes, it has also been proposed that the ‘human mirror system’, which prominently includes Broca's area, is the neurophysiological substrate of speech perception. Although numerous studies have demonstrated a tight link between sensory and motor speech processes, few have directly assessed the critical prediction of mirror neuron theories of speech perception, namely that damage to the human mirror system should cause severe deficits in speech perception. The present study measured speech perception abilities of patients with lesions involving motor regions in the left posterior frontal lobe and/or inferior parietal lobule (i.e., the proposed human ‘mirror system’). Performance was at or near ceiling in patients with fronto-parietal lesions. **It is only when the lesion encroaches on auditory regions in the temporal lobe that perceptual deficits are evident. This suggests that ‘mirror system’ damage does not disrupt speech perception, but rather that auditory systems are the primary substrate for speech perception.**
 
 ## References
+
 * [Tools for Teaching the R Sound by Peachie Speechie](https://www.youtube.com/watch?v=i1zgAcm9rfc)
 * [Teaching the R Sound to Teens and Older Kids](https://www.youtube.com/watch?v=0oGE88STM3Q)
 * [Teaching Retroflex R to Teens and Older Kids by Peachie Speechie](https://www.youtube.com/watch?v=JzF0r8WJDIM)
